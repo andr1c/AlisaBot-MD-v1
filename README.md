@@ -10,7 +10,7 @@
 <div align="center">
     
 ### `🥰 DUDAS SOBRE EL BOT?, CONTACTAME 🥰`
-<a href="https://wa.me/73315260" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/59173315260" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### `🟢 Bot Oficial 🟢`
