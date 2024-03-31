@@ -1,11 +1,11 @@
-# These are supported funding model platforms
-github: [andr1c]
-patreon: # Replace 
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: ['https://github.com/andr1c', 'https://dash.vortexuscloud.com/login']
+# Estos son plataformas modelo de financiación compatibles
+GitHub  :    [andr1c]
+Patreón  :     # reemplazar   
+open_collective  :    # Responder con un solo nombre de usuario Open Collective
+ko_fi  :    # Responder con un solo nombre de usuario Ko-fi
+Ascensor de rodas  :    # Responder con un único nombre de plataforma de Tidelift/nombre del paquete, por ejemplo, npm/babel
+comunidad_bridge  :    # Responder con un único nombre del proyecto Community Bridge por ejemplo, nube-fundición
+Liberapay  :    # Responder con un solo nombre de usuario de Liberapay
+emisión  :    # Responder con un solo nombre de usuario IssueHunt
+Otechie  :    # Responder con un solo nombre de usuario de Otechie
+Custom  :    ['https://github.com/andr1c', 'https://dash.vortexuscloud.com/login', 'https://www.cafirexos.com/', 'https://www.tobruttt.pikzz.store', 'https://t.me/asifhosting']
