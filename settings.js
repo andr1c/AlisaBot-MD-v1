@@ -5,7 +5,7 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETADO/OWNER ]---------
-global.owner = [["5492266466080", "Owner", true], ["573026191480"], ["593968585383"], ["5492266466080"], ["595985451858"], ["5492266613038"], ["5217294888993"],["5214437863111"], ["51906662557"], ["5491155983299"]]
+global.owner = [["59173315260", "Owner", true], ["591 78232529"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
@@ -13,7 +13,7 @@ global.blockList = []
 //---------[ NOMBRE/INFO ]---------
 global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
 global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
-global.vs = '1.0.7'
+global.vs = '1.2.9'
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
@@ -74,22 +74,22 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACE ]---------
-global.md = 'https://github.com/elrebelde21/NovaBot-MD'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.faceb = 'https://facebook.com/groups/872989990425789/'
+global.md = 'https://github.com/andr1c/NovaBot-MD'
+global.yt = ''
+global.tiktok = ''
+global.faceb = ''
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM' //test
-global.nn7 = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 4
-global.nna2 = 'Em4Byf4w5VgHObPvZQlfnM'
+global.nna = 'https://whatsapp.com/channel/0029VaUe6NBAzNbrOnQRzi3o' //Update 
+global.nn = 'https://chat.whatsapp.com/KixLH7hCmQm0QKW5huB8gn' //AlisaBot
+global.nn2 = '' //Loli & Nova
+global.nn3 = '' //Grupo de Colaboracion
+global.nn4 = '' // Grupo COL 2
+global.nn5 = '' //Grupo COL 3
+global.nn6 = '' //test
+global.nn7 = ''
+global.nn8 = ''
+global.multi = '' //Grupo COL 4
+global.nna2 = ''
 
 //---------[ INFO ]--------- 
 global.info = { wait: '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*', 
